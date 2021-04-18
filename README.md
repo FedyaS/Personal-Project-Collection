@@ -1,7 +1,7 @@
 # Personal-Project-Collection
 A small collection of personal projects
 
-I apologize in advance as some of the projects have spahgetti code and/or zero to none comments. I hope to have the time to fix that in the future.
+I apologize in advance as some of the projects have spahgetti code and/or zero to few comments. I hope to have the time to fix that in the future.
 
 Here is an overview of all the projects:
 
