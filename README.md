@@ -12,8 +12,8 @@ Here is an overview of all the projects:
 **Bulls-and-Cows**: The game bulls and cows with option to guess versus computer or for computer to guess versus you where computer uses bruteforce algorithm to win.
 
 **Cube-Puzzle-Solver**: Imagine a 3D 3x3x3 cube made of little cubes. Now this cube is cut up into figures of cubes and the figures are glued together. Code takes input of figures and assembles them back into large cube.
-Other:
 
+**Other:**
 **-HeadsTailsRatio**: In a long string of heads and tails (h(s) & t(s)) find the substring with the largest percentage of heads or tails that is under 100%. Suboptimal, bruteforce solution.
 
 **-ImagesToPDF**: Script assembles a collection of Images and turns them into a PDF, then provides a Windows Subsystem Linux command to OCR this PDF using OCRmyPDF package.
@@ -35,3 +35,5 @@ Almost all of the packages used are builtins except for:
 -telegram (only PublicBot)
 -telethon (only PublicBot)
 -fuzzywuzzy (only PublicBot)
+
+For projects with multiple files, you will need all the files to be in the same directory for the code to work.
