@@ -32,12 +32,17 @@ Here is an overview of all the projects:
 
 
 Almost all of the packages used are builtins except for:
+
 -pygame (Used in multiple projects)
 
 -pygame-gui (only Infection-Simulation)
+
 -Pillow (only ImagesToPDF)
+
 -telegram (only PublicBot)
+
 -telethon (only PublicBot)
+
 -fuzzywuzzy (only PublicBot)
 
 For projects with multiple files, you will need all the files to be in the same directory for the code to work.
