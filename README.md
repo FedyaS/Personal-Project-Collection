@@ -13,6 +13,10 @@ Here is an overview of all the projects:
 
 **Cube-Puzzle-Solver**: Imagine a 3D 3x3x3 cube made of little cubes. Now this cube is cut up into figures of cubes and the figures are glued together. Code takes input of figures and assembles them back into large cube.
 
+**Infection-Simulation**: See Repo https://github.com/FedyaS/Estimating-Active-Cases-in-an-Epidemic-Model
+
+**RankerBot**: Discord Bot which utilizes commands to create events, record people who react, and remind participants to attend via a ping. See Repo https://github.com/FedyaS/RankerBot
+
 **Other:**
 
 **-HeadsTailsRatio**: In a long string of heads and tails (h(s) & t(s)) find the substring with the largest percentage of heads or tails that is under 100%. Suboptimal, bruteforce solution.
@@ -24,8 +28,7 @@ Here is an overview of all the projects:
 
 **-PublicBot**: A Telegram Bot which scans a chat for messages similar to a prior message. Sends alert to different chat when said message is found. Includes logging system and commands to remotely test/operate the bot through Telegram.
 
-**Infection-Simulation**: See Repo https://github.com/FedyaS/Estimating-Active-Cases-in-an-Epidemic-Model
-RankerBot: Discord Bot which utilizes commands to create events, record people who react, and remind participants to attend via a ping. See Repo https://github.com/FedyaS/RankerBot
+
 
 
 Almost all of the packages used are builtins except for:
