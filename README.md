@@ -5,7 +5,7 @@ I apologize in advance as some of the projects have spahgetti code and/or zero t
 
 Here is an overview of all the projects:
 
-**15-Puzzle-Game**: A pygame version of the 15 Puzzle
+**15-Puzzle-Game**: A pygame version of the 15 Puzzle.
 
 **Benfords-Law**: A dataset of US City Populations [https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population] analyzed for Benford's Law.
 
