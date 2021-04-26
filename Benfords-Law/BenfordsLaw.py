@@ -14,15 +14,14 @@ def get_first_digit(number):
 # Using relative paths instead
 
 
-f = open("CityPopulationsUSA.txt", "r")
-list_of_city_populations = f.read().splitlines()
-f.close()
+name = "Euler.txt"
+data_list = filter(None, open(name, "r").read().splitlines())
 
 first_digits = []
 
 
 def get_all_first_digits():
-    for population in list_of_city_populations:
+    for population in data_list:
         first_digit = get_first_digit(int(population))
         first_digits.append(first_digit)
 
